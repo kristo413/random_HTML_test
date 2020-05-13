@@ -9,3 +9,12 @@ p {
 ul {
     color: white;
 }
+
+#side-pic {
+    height: 300px;
+    width: auto;
+}
+
+#intro_label {
+    color: white;
+}
