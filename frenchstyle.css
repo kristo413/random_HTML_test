@@ -2,11 +2,16 @@ body {
     background-color: black;
 }
 
+#intro_label {
+    font-size: 200%;
+}
+
 p {
     color: white;
 }
 
 ul {
+    position: relative;
     color: white;
 }
 
