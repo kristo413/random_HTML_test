@@ -2,17 +2,38 @@ html {
   background-image: url("https://image.freepik.com/free-vector/cartoon-white-clouds-icon-set-isolated-blue_90220-262.jpg");
 }
 
+.sea,
 body > p {
   padding: 10px;
   background-color: white;
+  border-radius: 25px;
+}
+.container1,
+.container2 {
+  text-align: center;
 }
 
 img {
   border: 10px;
-  border-style: solid;
+  border-style: ridge;
   border-color: gold;
   height: 300px;
   width: auto;
-  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
   padding: 0px;
+}
+
+.opensea {
+  text-align: center;
+}
+
+h1 {
+  margin: auto;
+  color: black;
+  font-size: 50px;
+  background-color: white;
+  width: 300px;
+  border-radius: 50%;
+  text-align: center;
 }
