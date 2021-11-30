@@ -1,0 +1,18 @@
+html {
+  background-image: url("https://image.freepik.com/free-vector/cartoon-white-clouds-icon-set-isolated-blue_90220-262.jpg");
+}
+
+body > p {
+  padding: 10px;
+  background-color: white;
+}
+
+img {
+  border: 10px;
+  border-style: solid;
+  border-color: gold;
+  height: 300px;
+  width: auto;
+  margin: auto;
+  padding: 0px;
+}
