@@ -1,25 +1,34 @@
 body {
-    background-color: black;
+  background-color: tan;
 }
 
 #intro_label {
-    font-size: 200%;
+  font-size: 200%;
 }
 
 p {
-    color: white;
+  color: white;
 }
 
 ul {
-    position: relative;
-    color: white;
+  position: relative;
+  color: white;
 }
 
 #side-pic {
-    height: 300px;
-    width: auto;
+  height: 300px;
+  width: auto;
 }
 
 #intro_label {
-    color: white;
+  color: white;
+}
+
+.photos {
+  width: 400px;
+  height: auto;
+}
+
+img {
+  border-radius: 25px;
 }
